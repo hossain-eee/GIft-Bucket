@@ -1,4 +1,4 @@
-# weading_gift
+# Gift Bucket
 
 
 ![1](https://github.com/hossain-eee/Project-Gift-Bucket/assets/101991583/9f35b67f-66f7-4487-af68-99968c3bc45b)
