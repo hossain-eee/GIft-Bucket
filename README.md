@@ -1,4 +1,29 @@
-# Gift Bucket
+# Gift Bucket App
+
+The Gift Bucket App is a Flutter and Dart-based mobile application designed to streamline gift management for events and gatherings. Built with efficiency and user experience in mind, this app integrates seamlessly with Hive for local storage and utilizes GetX for state management, ensuring smooth performance and intuitive navigation.
+
+## Key Features
+
+- **Dynamic Bottom Navigation**: Users can effortlessly categorize and manage guest data based on gift types, facilitating efficient organization and tracking.
+  
+- **Editable Guest Details**: Enhance user flexibility by allowing them to edit guest details, ensuring accurate information is maintained throughout the event planning process.
+  
+- **Delete Functionality**: Streamline data management with a delete feature, enabling users to remove unwanted entries quickly.
+  
+- **Undo-Delete Feature**: Minimize errors and enhance user experience with an undo-delete feature, providing users with the ability to revert accidental deletions effortlessly.
+
+- **Insightful Charts**: Gain valuable insights into guest contributions through intuitive charts, offering a comprehensive overview of gift distribution and contribution trends.
+
+## Technologies Used
+
+- **Flutter**: Utilized Flutter framework for cross-platform mobile app development, ensuring compatibility across a wide range of devices.
+  
+- **Dart**: Leveraged Dart programming language for its simplicity and efficiency in developing mobile applications.
+  
+- **Hive**: Integrated Hive for local data storage, enabling fast and efficient access to guest information while maintaining data integrity.
+  
+- **GetX**: Employed GetX for state management, offering a lightweight and intuitive solution for managing app states and navigation.
+
 
 
 ![1](https://github.com/hossain-eee/Project-Gift-Bucket/assets/101991583/9f35b67f-66f7-4487-af68-99968c3bc45b)
